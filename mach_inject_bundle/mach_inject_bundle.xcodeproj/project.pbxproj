@@ -359,18 +359,21 @@
 		33B2AC7C09285567004B1632 /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.7;
 			};
 			name = Development;
 		};
 		33B2AC7D09285567004B1632 /* Deployment */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.7;
 			};
 			name = Deployment;
 		};
 		33B2AC7E09285567004B1632 /* Default */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				SDKROOT = macosx10.7;
 			};
 			name = Default;
 		};
