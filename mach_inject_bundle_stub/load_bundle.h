@@ -6,6 +6,7 @@
 #ifndef		_loader_
 #define		_loader_
 
+#include <Carbon/Carbon.h>
 #include <mach/error.h>
 
 #define	err_load_bundle_undefined_symbol					(err_local|1)
